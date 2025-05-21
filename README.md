@@ -1,26 +1,26 @@
-# Social Media Engagement Dashboard (Excel)
+# Texas City Financial Dashboard (Excel)
 
 ## 🧭 Overview
-This Excel dashboard tracks key social media metrics such as engagement rate, post reach, impressions, follower growth, and platform-specific performance. It provides a centralized view of marketing effectiveness across channels to support campaign evaluation and content strategy.
+This Excel dashboard analyzes revenue and profit performance across major cities in Texas. It visually compares city-level financial data, highlighting top-performing regions, profit margins, and contributions to overall state revenue.
 
 ## 🛠️ Tools & Features Used
 - Microsoft Excel / Google Sheets
-- Custom formulas for engagement rate and growth
-- Line and bar charts for visual trends
-- KPI metrics for quick reference
-- Conditional formatting and slicers (if used)
+- SUMIF, Profit Margin Calculation, Conditional Formatting
+- Bar Charts and Pie Charts
+- KPI Summary Metrics
+- Pivot Tables (optional for dynamic filtering)
 
 ## 📊 Key Insights
-- Tracks growth in followers, reach, and engagement over time
-- Visualizes post performance by platform
-- Identifies best-performing content types and timeframes
+- Compares total revenue and profit by city
+- Calculates profit margins across cities
+- Visualizes which cities contribute most to state-wide revenue
+- Identifies high and low performing municipalities
 
 ## 🔗 Project Link  
 [View Google Sheets File](https://docs.google.com/spreadsheets/d/1fEnRKZ7Rq1nsfuhHn2Zzev0PKG7Cuq_rUDeb7-j7E2U/edit#gid=0)
 
 ## 🖼️ Screenshot
-![Screenshot 2025-05-21 at 6 00 56 AM](https://github.com/user-attachments/assets/d8cec51d-638c-44e9-b2db-62cd122d0669)
-
+![Texas City Financial Dashboard]![Screenshot 2025-05-21 at 6 00 56 AM](https://github.com/user-attachments/assets/d8cec51d-638c-44e9-b2db-62cd122d0669)
 
 ## 🗒️ Notes
-This project demonstrates how to manage and analyze social media KPIs in Excel. It reflects skills in marketing analytics, reporting, and performance tracking.
+This project reflects my ability to turn raw municipal financial data into actionable insights using Excel dashboards. It supports comparative analysis and strategic decision-making at the city level.
